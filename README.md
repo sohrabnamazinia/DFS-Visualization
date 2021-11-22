@@ -1,2 +1,3 @@
 # DFS-Visualization 
-> My powerpoint file explains DFS Algorithm Completely!
+This code visualizes DFS algorithm </br>
+My powerpoint file explains DFS Algorithm Completely!
